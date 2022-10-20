@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @proudstoner
+- 👋 Hi, I’m @astitvsingh
 - 👀 I’m interested in ...
         - nodejs-wapps, solidity-dapps, neural networks, machine learning & ethical hacking.
+        
 - 🌱 I’m currently learning ...
         - nodejs-wapps, solidity-dapps, neural networks, machine learning & ethical hacking.
+        
 - 💞️ I’m looking to collaborate on ...
         - projects and tools both open source & private.
+        
 - 📫 How to reach me ...
 
 <!---
